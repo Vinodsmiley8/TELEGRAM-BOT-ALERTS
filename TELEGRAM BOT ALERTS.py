@@ -7,8 +7,8 @@ import time
 import MetaTrader5 as mt5
 
 # === CONFIG ===
-BOT_TOKEN = "8294376635:AAEDMnSk9-4v7xD8LsWy13HAUj9Gcxi-dTs"
-ALLOWED_USERS = ["8359294930", "5546410468","773213882"]
+BOT_TOKEN = "8294376edfdewf635:AAEDMnSk9-4v7xD8LsWy13HAUj9Gcxi-dTs"
+ALLOWED_USERS = ["8359245494930", "5546410425432468","773212532523882"]
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
@@ -419,3 +419,4 @@ checker_thread.start()
 # === MAIN LOOP ===
 print("🤖 Bot is running...")
 bot.infinity_polling()
+
