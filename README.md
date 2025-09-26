@@ -240,17 +240,7 @@ Current code stores alerts in-memory — they are lost on restart. Recommended i
 
 ---
 
-## Contributing
 
-If you want me to:
-
-* Create a `requirements.txt` by scanning imports,
-* Rename the script to `telegram_bot_alerts.py` (without spaces),
-* Add a `Dockerfile` and `docker-compose.yml`,
-* Add persistence using SQLite and automatic migration,
-  I can prepare them and provide an updated zip.
-
----
 
 
 
