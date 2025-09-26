@@ -252,16 +252,7 @@ If you want me to:
 
 ---
 
-## License
 
-Add a license of your choice (e.g., MIT). If you want, I can attach an `LICENSE` file.
 
----
 
-If you’d like, I can now:
-
-1. Replace the README in your zip with this version and re-generate a download, **or**
-2. Inspect the uploaded script to extract **exact** commands and automatically tailor the “Message / Command Examples” section so everything matches precisely.
-
-Which one do you want me to do next?
 
